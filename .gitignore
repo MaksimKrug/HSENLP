@@ -1,0 +1,5 @@
+nlpenv/
+.vscode/
+data/
+*.csv
+.ipynb_checkpoints
