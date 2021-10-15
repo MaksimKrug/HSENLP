@@ -14,12 +14,12 @@ runs - directory with tensorboard logs
 ## Results
 |Model|Test Score|
 |-----|----------|
-|Word Freq|0.886|
-|Logistic Regression|0.965|
-|Random Forest|0.887|
+|Word Freq|0.889|
+|Logistic Regression|0.967|
+|Random Forest|0.886|
 |Linear Glove|0.949|
-|Linear FastText|0.955|
-|Linear Both|0.958|
-|LSTM Glove|0.959|
-|LSTM FastText|0.969|
+|Linear FastText|0.952|
+|Linear Both|0.954|
+|LSTM Glove|0.965|
+|LSTM FastText|0.965|
 |LSTM Both|0.971|
